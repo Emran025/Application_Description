@@ -29,6 +29,7 @@ This program aims to revolutionize healthcare management by ensuring effective a
 
 
 # Asceama Database Diagram
+
 ![Database Diagram](screenshots/Diagram_000.drawio.svg)
 
 <!-- - ### CENTERS AND HIS COMPONWNTS LEADS:
